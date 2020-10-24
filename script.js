@@ -137,7 +137,7 @@ const generateNumbers = () => {
 //     $("#title").html("Selection Sort");
 // });
 var title = document.getElementById("title")
-document.getElementById("bubble-sort").onclick = function () { title.innerHTML = "Bubble Sot" }
+document.getElementById("bubble-sort").onclick = function () { title.innerHTML = "Bubble Sort" }
 document.getElementById("selection-sort").onclick = function () { title.innerHTML = "Selection Sort" }
 
 
